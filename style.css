@@ -1,0 +1,52 @@
+body{
+  background: rgb(245,245,245);
+  color: #707078;
+  font-size: 15px;
+  font-family: Helvetica;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1{
+  font-family: 'Saira Condensed', sans-serif;
+  color: #449381;
+  font-weight: lighter;
+  font-size: 35px;
+}
+
+h2 {
+  font-family: 'Saira Condensed', sans-serif;
+  color: #5BC8AF;
+  font-weight: lighter;
+  font-size: 30px;
+}
+a {
+  color: grey;
+}
+
+a:hover {
+  text-decoration: none;
+  color: yellow;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://static.pexels.com/photos/730981/pexels-photo-730981.jpeg");
+  background: linear-gradient;
+  background-size: cover;
+  padding: 75px;
+  color: white;
+  text-shadow: 1px 1px 10px grey;
+}
+
+#banner h1 {
+  font-family: 'Saira Condensed', sans-serif;
+  color: #28262C;
+  font-weight: lighter;
+  font-size: 60px;
+}
+
+.description{
+  padding: 40px;
+  font-weight: lighter;
+}
+
